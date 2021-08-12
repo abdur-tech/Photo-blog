@@ -1,0 +1,23 @@
+img{
+    width: 30%;
+    height:50%;
+    margin: 1.6666%;
+    vertical-align: middle;
+    
+
+}
+
+h1{
+    text-transform: uppercase;
+    border-bottom: 2px solid #e66464;
+    width:30%;
+    margin-left: 1.66666%;
+    padding: 20px 0;
+    font-weight: 900;
+    color: rgb(255, 255, 255);
+
+}
+
+body{
+    background-image: radial-gradient( circle 610px at 5.2% 51.6%,  rgba(5,8,114,1) 0%, rgba(7,3,53,1) 97.5% );
+}
